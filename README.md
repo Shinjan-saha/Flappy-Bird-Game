@@ -1,4 +1,4 @@
-# Flappy-Bird_Game
+# Flappy-Bird-Game
 <img width="550" src="./img/Logoflapbird.png">
 A Famous  i-phone game Flappy Bird Created Using Unity Engine 
 
