@@ -4,11 +4,11 @@ A Famous  i-phone game Flappy Bird Created Using Unity Engine
 
 ## Working Tools Required:-
 
-<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40" height="40"/> </a>
+<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="75"/> </a>
 <!-- <br> -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" />    
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="75" />    
 <!-- <br> -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"  width="40" height="40"/>               
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"  width="75"/>               
 
 
 ## Download & Play the game Over Here:-
