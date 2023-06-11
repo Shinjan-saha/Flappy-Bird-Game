@@ -3,9 +3,14 @@
 A Famous  i-phone game Flappy Bird Created Using Unity Engine 
 
 ## Working Tools Required:-
-<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40" height="40"/> </a> Unity Hub 
-<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" /></a>Visual Studio            
+
+<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40" height="40"/> </a>
+<!-- <br> -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" />    
+<!-- <br> -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"  width="40" height="40"/>               
+
+
 ## Download & Play the game Over Here:-
 [Download!](https://github.com/Shinjan-saha/Flappy-Bird-Game/blob/main/flappybird12.exe)
 
